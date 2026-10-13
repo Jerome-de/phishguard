@@ -2,7 +2,7 @@
 app.py — Phishing URL Detection | Hugging Face Space
 ======================================================
 Author : Muhammad Suleiman Musa  (U/CS/21/134)
-Project: Final Year Project — AFIT, Kaduna (2024/2025)
+Project: Final Year Project — Yobe State University, Damaturu (2025/2026)
 Model  : XGBoost + SHAP | UCI Phishing Websites Dataset
 
 Two pages:
@@ -310,7 +310,7 @@ with st.sidebar:
       Mohammad et al., 2012<br><br>
       <b style="color:#94a3b8;">Interpretability</b><br>TreeSHAP<br><br>
       <b style="color:#94a3b8;">Author</b><br>Muhammad Suleiman Musa<br>
-      U/CS/21/134 · AFIT Kaduna<br>2024/2025
+      U/CS/21/134 · Yobe State University<br>2025/2026
     </div>
     """, unsafe_allow_html=True)
 
@@ -820,7 +820,7 @@ elif page == "🔍  URL Tester":
                     border:1px solid #e2e8f0;border-radius:8px;
                     font-size:0.8rem;color:#94a3b8;">
           <strong style="color:#64748b;">Disclaimer:</strong>
-          This tool is for educational and research purposes (Final Year Project, AFIT Kaduna, 2024/2025).
+          This tool is for educational and research purposes (Final Year Project, Yobe State University, Damaturu, 2025/2026).
           It achieves 98.10% accuracy on the UCI benchmark dataset but is not a substitute for
           professional cybersecurity tools. Always exercise caution with unfamiliar URLs.
           The model may mis-classify sophisticated phishing sites or flag unusual but legitimate ones.
